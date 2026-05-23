@@ -2,7 +2,7 @@
 
 🎓 1st Year AIML Engineering Student  
 💡 Passionate about Artificial Intelligence & Machine Learning  
-🌱 Currently learning: Java | OOP Concepts  
+🌱 Currently learning: Java |  Concepts  
 🚀 Goal: Build smart AI-powered projects  
 📍 India  
 
