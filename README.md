@@ -2,7 +2,7 @@
 
 🎓 1st Year AIML Engineering Student  
 💡 Passionate about Artificial Intelligence & Machine Learning  
-🌱 Currently learning: Java |  Concepts  
+🌱 Currently learning: Java |  Gen AI |Python  
 🚀 Goal: Build smart AI-powered projects  
 📍 India  
 
@@ -14,16 +14,19 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
 
 
 ---
 
 ## 📌 What I'm Up To
 
-- 🔭 Working on: Java OOP practice projects
+- 🔭 Working on: Java and Python practice projects
 - 🤝 Participating in: GSSoC 2026
-- 📚 Learning: AIML fundamentals
-- 💬 Ask me about: Java & OOP
+- 📚 Learning: AIML fundamentals|Gen AI
+- 💬 Ask me about: Java & Python 
 
 ---
 
