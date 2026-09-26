@@ -1,6 +1,6 @@
 # Hi there, I'm Mariyam Mujawar! 👋
 
-🎓 1st Year AIML Engineering Student  
+🎓 2nd Year AIML Engineering Student  
 💡 Passionate about Artificial Intelligence & Machine Learning  
 🌱 Currently learning: Java |  Gen AI |Python  
 🚀 Goal: Build smart AI-powered projects  
